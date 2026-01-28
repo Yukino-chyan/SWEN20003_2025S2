@@ -1,6 +1,6 @@
 About this repo:
 
-Here are all of the projects in SWAN20003. Hope this helps anyone taking this course in the future!
+Here are all of the projects in SWEN20003. Hope this helps anyone taking this course in the future!
 
 **Projects 1 and 2 are essentially about the same thing: implementing a simple game using Java.** While the game itself might change from year to year, the programming skills required remain **largely the same**. Project 1 asks for a basic version—for instance, in 2025 S2, we had to build a simplified version of "Shadow Dungeon." Project 2 is basically an **enhanced version** of Project 1; it requires adding more features to your initial build and includes creating a UML class diagram as a prerequisite task (which is called Project2A). Overall, these projects aren't too difficult **as long as you're willing to put in the time**, and the grading is very generous. I ended up with a score of 28.8/30.
 
